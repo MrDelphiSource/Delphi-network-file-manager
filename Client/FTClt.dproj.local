@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.708,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.793,C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Desktop\NetCom7_File_Transfer_Test\Client\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.634,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Desktop\NetCom7_File_Transfer_Test\Client\FTClt.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.793,C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Desktop\NetCom7_File_Transfer_Test\Client\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
