@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.641,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.008,=D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Desktop\NetCom7_File_Transfer_Test\Server\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.634,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.126,=C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\Unit2.dfm=D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\RenameFileForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,=D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\Unit2.pas=D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\RenameFileForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Desktop\NetCom7_File_Transfer_Test\Server\FTSrv.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\AttributesForm.pas=D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,C:\Users\Andrej\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Desktop\NetCom7_File_Transfer_Test\Server\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\AttributesForm.dfm=D:\Desktop\NetCom7_File_Transfer_Test\_testing_\Server\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
